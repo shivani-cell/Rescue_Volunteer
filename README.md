@@ -19,10 +19,11 @@ Application development framework : Android
 Contributors:
 TEAM NAME- THE ORIGINALS
 TEAM MEMBERS-
-SHIVANI MITTAL(TEAM LEADER)
-SONI DHIMAN
-SHAKSHI MANI TRIPATHI
+SHIVANI MITTAL![Made-at-Hack-36](https://user-images.githubusercontent.com/56692992/114290990-5d42c080-9aa1-11eb-97a1-648aca45b136.png)
 
-Made at:
+SONI DHIMAN
+SAKSHI MANI TRIPATHI
+
+Made at: 
 
 
