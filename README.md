@@ -20,7 +20,7 @@ Contributors:
 TEAM NAME- THE ORIGINALS
 TEAM MEMBERS-
 SHIVANI MITTAL
-AHREYANSHI BANSAL
+SHREYANSHI BANSAL
 
 Made at: ![Made-at-Hack-36](https://user-images.githubusercontent.com/56692992/114290990-5d42c080-9aa1-11eb-97a1-648aca45b136.png)
 
